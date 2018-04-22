@@ -1,0 +1,7 @@
+- Taskbar -
+---Title---
+
+1. Change "Taskbar" above to whatever you want.
+2. Change "Title" above to whatever you want.
+3. Change this text to whatever you want.
+4. Restart awesome (Ctrl + Mod4 + R)
